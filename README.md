@@ -12,12 +12,14 @@
   但必須**重新審核**
 ## 審核格式
 * 範例
+
   Line 名稱： byStarTW
 
   ZenTalk 暱稱： peter93412
 
   加入動機： 對開發有興趣
 * 格式
+
   Line 名稱：
 
   ZenTalk 暱稱：
